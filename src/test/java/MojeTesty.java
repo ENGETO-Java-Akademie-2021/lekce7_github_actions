@@ -16,7 +16,6 @@ public class MojeTesty {
     }
 
     @Test
-    @Disabled
     public void tretiTest(){
 
         int x = 1/0;
